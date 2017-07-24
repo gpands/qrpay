@@ -1,0 +1,7 @@
+com.goodshilei.overseapay.sdk
+com.goodshilei.overseapay.sdk.exception
+com.goodshilei.overseapay.sdk.model
+com.goodshilei.overseapay.sdk.net
+com.goodshilei.overseapay.sdk.serializer
+com.goodshilei.overseapay.sdk.util
+test
